@@ -22,3 +22,7 @@ Oyun menüsünde oyuncular, fare ile butonlara tıklayarak oyunun farklı fonksi
 Oyun başladığında müzik çalmaya başlıyor ve müzik açılıp kapatılabiliyor.
 
 <img width="913" alt="Ekran Resmi 2024-11-20 22 48 33" src="https://github.com/user-attachments/assets/955f5a38-a084-455f-940a-794f4d04e2e9">
+
+<img width="905" alt="Ekran Resmi 2024-11-20 22 49 59" src="https://github.com/user-attachments/assets/53a89792-7b84-4eb6-835c-621ef9e25059">
+
+
