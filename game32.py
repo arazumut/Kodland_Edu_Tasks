@@ -11,7 +11,7 @@ FPS = 30
 game_state = "menu"
 music_on = True
 
-# Arka Plan ve Sprite Görselleri
+
 background_image = "background1"
 menu_background_image = "background1"
 
