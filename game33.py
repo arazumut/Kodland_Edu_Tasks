@@ -24,7 +24,7 @@ def toggle_music():
     else:
         music.stop()
 
-# Karakter Hareket ve Özellik Sınıfı
+
 class Character:
     def __init__(self, image, position):
         self.actor = Actor(image, position)
