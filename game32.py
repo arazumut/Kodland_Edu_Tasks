@@ -2,7 +2,7 @@ import pgzrun
 import random
 from pgzero.rect import Rect
 
-# Ekran ve Oyun Ayarları
+
 WIDTH = 625
 HEIGHT = 370
 TITLE = "Uzaylı Koşusu"
