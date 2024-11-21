@@ -56,6 +56,7 @@ class Character:
             self.jump_speed = -12
             self.actor.image = self.animations["jump"]
 
+        
         if keys["down"]:
             self.actor.image = "hero4"
 
